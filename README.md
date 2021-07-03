@@ -2,9 +2,9 @@
 Make sure you have a new virtual env and install requirements.txt
 
 
-To build the database run 'python build_database.py'
+To build the database run `python build_database.py`
 
-To run the application simply run in terminal`python main.py`
+To run the application simply run in terminal `python main.py`
 
 Now you can create a request to create a worker using cURL
 
